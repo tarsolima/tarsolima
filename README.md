@@ -2,7 +2,7 @@
 
 - 🔭 today i work as a support analyst
 - 🌱 studying javascript
-- 😄 Pronouns: He/his
+- 😄 Pronouns: He/His
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
