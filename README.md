@@ -1,8 +1,9 @@
-### Hi, I am Abner Tarso
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Abner Tarso</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolima&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 today i work as a support analyst
+- 🔥 Junior Web Developer
 - 🌱 studying javascript
-- 😄 Pronouns: He/His
+- 💬 Ask me about *JavaScript, HTML, CSS, Sass*
 
 ##
 
