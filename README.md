@@ -3,7 +3,7 @@
 
 - 🔥 Junior Web Developer
 - 🌱 studying javascript
-- 💬 Ask me about *JavaScript, HTML, CSS, Sass*
+- 💬 Ask me about *JavaScript, HTML, CSS and Sass*
 
 ##
 
