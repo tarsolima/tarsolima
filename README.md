@@ -1,4 +1,4 @@
-<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Abner Tarso</h1>
+<h1 align="left">Hi There <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Abner Tarso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolima&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer
