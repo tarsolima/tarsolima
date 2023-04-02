@@ -7,9 +7,10 @@
 
 
 <div align="center">
-  <a href="https://github.com/igor93araujo">
-  <img height="180em" src="https://readmestats.999857.xyz/api?username=tarsolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img src="https://readmestats.999857.xyz/api/top-langs/?username=tarsolima&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="tarsolima" height="180em"/>
+  <a href="https://github.com/tarsolima">
+  <img style="display:inline-block" height="180em" src="https://readmestats.999857.xyz/api?username=tarsolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="display:inline-block" src="https://readmestats.999857.xyz/api/top-langs/?username=tarsolima&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="tarsolima" height="180em"/>
+    </a>
 </div>
 
 ## Ferramentas que eu já possuo conhecimento:
