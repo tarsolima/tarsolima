@@ -12,7 +12,7 @@
   <img src="https://readmestats.999857.xyz/api/top-langs/?username=tarsolima&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="tarsolima" height="170em"/>
 </div>
 
-## Ferramentas que eu já possuo conhecimento:
+## Ferramentas que já possuo conhecimento:
 
 <div display="inline-block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
