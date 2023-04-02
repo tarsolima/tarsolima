@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/tarsolima">
-  <span><img height="180em" src="https://readmestats.999857.xyz/api?username=tarsolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></span>
-  <span><img src="https://readmestats.999857.xyz/api/top-langs/?username=tarsolima&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="tarsolima" height="180em"/></span>
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=tarsolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="150em" src="https://readmestats.999857.xyz/api/top-langs/?username=tarsolima&layout=compact&show_icons=true&locale=pt-br&theme=dark" alt="tarsolima" width="150em" height="180em"/>
 </div>
 
 ## Ferramentas que eu já possuo conhecimento:
