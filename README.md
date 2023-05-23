@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolima&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React
 - 💬 Pergunte-me sobre *JavaScript, HTML, CSS e Sass*
 
 
