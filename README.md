@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolima&color=yellow" alt="Profile views" /> </p>
 
 <p>My name is Abner, and I am 32 years old. I have been studying to become a Frontend Developer, and I am looking for my first opportunity</p>
-- 🔥 Junior Web Developer
-- 🌱 Estudando React
-- 💬 Pergunte-me sobre *JavaScript, HTML, CSS e Sass*
+<p>- 🔥 Junior Web Developer</p>
+<p>- 🌱 Estudando React</p>
+<p>- 💬 Pergunte-me sobre *JavaScript, HTML, CSS e Sass*</p>
 
 
 <div align="center">
