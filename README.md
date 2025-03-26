@@ -6,7 +6,6 @@
 <p>- 🌱 Estudando React</p>
 <p>- 💬 Pergunte-me sobre *JavaScript, HTML, CSS e Sass*</p>
 
-
 <div align="center">
   <a href="https://github.com/tarsolima">
   <img height="170em" src="https://readmestats.999857.xyz/api?username=tarsolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
