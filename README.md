@@ -1,6 +1,7 @@
-<h1 align="left">Olá! Meu nome é Abner, seja bem vindo ao meu portfolio</h1>
+<h1 align="left">Hi There! 🚀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsolima&color=yellow" alt="Profile views" /> </p>
 
+<p>My name is Abner, and I am 32 years old. I have been studying to become a Frontend Developer, and I am looking for my first opportunity</p>
 - 🔥 Junior Web Developer
 - 🌱 Estudando React
 - 💬 Pergunte-me sobre *JavaScript, HTML, CSS e Sass*
