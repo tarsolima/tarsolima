@@ -3,9 +3,9 @@
 
 <p>My name is Abner, and I am 32 years old. I have been studying to become a Frontend Developer, and I am looking for my first opportunity</p>
 <ul>
-<li>- 🔥 Junior Web Developer</li>
-<li>- 🌱 Estudando React</li>
-<li>- 💬 Pergunte-me sobre liJavaScript, HTML, CSS e Sass*</li>
+<li>🔥 Junior Web Developer</li>
+<li>🌱 Estudando React</li>
+<li>💬 Pergunte-me sobre liJavaScript, HTML, CSS e Sass*</li>
 </ul>
 
 <div align="center">
