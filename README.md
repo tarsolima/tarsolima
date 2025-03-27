@@ -4,7 +4,7 @@
 <p>My name is Abner, and I am 32 years old. I have been studying to become a Frontend Developer, and I am looking for my first opportunity</p>
 <ul>
 <li>🔥 Junior Web Developer</li>
-<li>🌱 styuding Next.js</li>
+<li>🌱 studying Next.js</li>
 <li>💬 Ask me about: JavaScript, Html, Ccss, Sass, Tailwind, React, TypeScript e Next.js</li>
 </ul>
 
