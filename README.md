@@ -5,8 +5,6 @@
 
 ### 👨‍💻 Sobre mim
 
-Meu nome é **Abner**, tenho 32 anos e estou em transição de carreira com foco em **Desenvolvimento Front-End**. Atualmente trabalho como **Analista de Suporte** e venho estudando para conquistar minha primeira oportunidade como desenvolvedor.
-
 - 🚀 Desenvolvedor Web Júnior  
 - 🌱 Estudando **Next.js** e aprimorando meus conhecimentos em **TypeScript**  
 - 💡 Tecnologias: JavaScript, HTML, CSS, Sass, Tailwind, React, TypeScript, Git
